@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python setup_test_data.py
 ```
 
-## 📊 Использование
+## Использование
 
 ```bash
 # Запуск с одним файлом
